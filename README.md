@@ -27,11 +27,6 @@
 - 🛠️ Interned at MakeSkilled(IOT) and Interned at Codeworks EduTech (Web Development)  
 - 📬 Contact me: gnana97046@gmail.com  
 
-[![LinkedIn: gnanendra-reddy](https://img.shields.io/badge/-gnanendra--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gnanendra-reddy/)  
-[![GitHub: gnanendrareddy](https://img.shields.io/github/followers/gnanendrareddy?label=Follow&style=social)](https://github.com/gnanendrareddy)  
-[![LeetCode: gnana333](https://img.shields.io/badge/LeetCode-gnana333-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/gnana333/)  
-[![CodeChef: vision_gnana](https://img.shields.io/badge/CodeChef-vision__gnana-brown?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vision_gnana)  
-[![HackerRank: gnana97046](https://img.shields.io/badge/HackerRank-gnana97046-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gnana97046)  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
@@ -69,8 +64,8 @@
 ---
 
 ### ☕ Let's connect and grow together!
-<a href="mailto:gnana97046@gmail.com">
-  <img src="https://img.shields.io/badge/-gnana97046@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:maramreddiearavind@gmail.com">
+  <img src="https://img.shields.io/badge/maramreddiearavind@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 ---
