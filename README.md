@@ -20,12 +20,12 @@
 <br/>
 
 - 💻 Computer Science Graduate | Full-Stack & AI Enthusiast  
-- 🧠 Solved 100+ problems on HackerRank (Gold Badge in Python), 100+ on LeetCode, and 50+ on CodeChef  
-- 🔧 Skilled in Python, JavaScript, Java, C, and C#  
-- 🌐 Web Dev | Cloud | DSA | Competitive Programming  
+
+- 🔧 Skilled in Python, Java
+- 🌐 Web Dev!
 - 🚀 Certified in Python
-- 🛠️ Interned at MakeSkilled(IOT) and Interned at Codeworks EduTech (Web Development)  
-- 📬 Contact me: gnana97046@gmail.com  
+
+- 📬 Contact me: maramreddiearavind@gmail.com  
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
