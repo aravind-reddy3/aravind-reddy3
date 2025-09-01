@@ -7,7 +7,7 @@
 
 - 🔧 Skilled in Python, Java
 - 🌐 Web Dev!
-- 🚀 Certified in Python
+
 
 - 📬 Contact me: maramreddiearavind@gmail.com  
 
